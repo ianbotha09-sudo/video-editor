@@ -1,10 +1,9 @@
 {
-  "name": "ClipForge Mobile Video Editor",
-  "short_name": "ClipForge",
-  "description": "Free mobile browser video editor",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#0b0d12",
-  "theme_color": "#11131a",
-  "icons": []
+  "name":"ClipForge Free Video Editor",
+  "short_name":"ClipForge",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#090b10",
+  "theme_color":"#0b0d12",
+  "description":"Free browser-based mobile video editor."
 }
